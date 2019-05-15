@@ -70,7 +70,8 @@ def show_program():
 	print '''
                     %sINFORMATION%s
  ------------------------------------------------------
-
+    Author     Me
+    Name       Open Source
     CodeName   MrDay
     version    full version
     Date       15/05/2019 09:35:12
